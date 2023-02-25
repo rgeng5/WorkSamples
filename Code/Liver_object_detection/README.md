@@ -13,9 +13,9 @@ The demo scripts and the YOLOv3 weights obtained after training for this work ar
 
 **Scripts**
 
-⋅⋅*Pre-processing script to increase contrast around the liver and convert DICOMs to PNGs, slice by slice: PreparePNG.m
+..*Pre-processing script to increase contrast around the liver and convert DICOMs to PNGs, slice by slice: PreparePNG.m
 
-⋅⋅*Two data augmentation schemes were used to enlarge the image dataset for training: reflections and full (reflections + translation + scaling + contrast). DataAug_refection.py performs reflections only; it can be run before DataAug_translate_scale_contrast.py to perform all 4 types of data augmentation
+..*Two data augmentation schemes were used to enlarge the image dataset for training: reflections and full (reflections + translation + scaling + contrast). DataAug_refection.py performs reflections only; it can be run before DataAug_translate_scale_contrast.py to perform all 4 types of data augmentation
 
 ⋅⋅*Data extraction script to obtain meta data from DICOM headers: GrabInfo.m
 
