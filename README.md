@@ -22,6 +22,6 @@ Linked in: https://www.linkedin.com/in/ruiqi-geng/
 
 **Linear & nonlinear optimization**
 
-![alt text](https://github.com/rgeng5/WorkSamples/blob/main/Optimization/Overview.png?raw=true)
+![alt text](https://github.com/rgeng5/WorkSamples/blob/main/Optimization/Overview.gif?raw=true)
 
 **Carpool optimizer app using Dijkstra's in java**
