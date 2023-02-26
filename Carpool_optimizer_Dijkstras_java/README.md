@@ -14,7 +14,7 @@ consider carpooling to events or work.
 
 
 
-**Data Structure/Algorithm and Justification **
+**Data Structure/Algorithm and Justification**
 
 Dijkstra's Shortest Path Algorithm is used because it calculates the best traversal path
 from a starting node to a destination on a weighted graph. The driving distances in question
@@ -23,7 +23,7 @@ additional nodes. The output of the Dijkstra’s algorithm tells us which riders
 for pickup, so that the total driving distance does not exceed user’s tolerance.
 
 
-**Unit Tests **
+**Unit Tests**
 
 1. Validate that invalid inputs (string, special characters) are handled correctly
 2. Specific edge cases: a rider with the same start and end point as the driver should be
