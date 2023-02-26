@@ -9,7 +9,7 @@ Departments of Radiology[1], Medical Physics[2], Electrical and Computer Enginee
 **Introduction**
 
 In this paper, we developed, implemented, and evaluated an AI-based (YOLOv3) fully automated prescription method for liver MRI. The AI-based automated liver image prescription demonstrated promising performance across the patients, pathologies, and field strengths studied. 
-The demo scripts and the YOLOv3 weights obtained after training for this work are shared here.
+The demo scripts and the YOLOv3 configuration files for this work are shared here.
 
 
 **Scripts**
